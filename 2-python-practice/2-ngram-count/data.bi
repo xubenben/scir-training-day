@@ -1,0 +1,11 @@
+the xu	1
+jun and	1
+xu END	1
+and jun	1
+xu jun	1
+jun xu	1
+and xu	1
+is the	1
+START xu	1
+xu and	1
+xu is	1
