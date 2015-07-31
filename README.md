@@ -121,3 +121,5 @@ Test  1
 * stdout与文件对比
 
 计划是可以做成像[这个](https://github.com/Oneplus/scir-training-day/blob/master/1-shell-practice/1-fundamental-of-shell/run.py)这样，这部分还在完善。
+
+### 根据本人的需要，增加了一些新的练习以及资料
